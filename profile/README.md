@@ -1,14 +1,18 @@
-## Hi there 👋
+# ForgeCRUD
 
-https://forgecrud.io/
+```
+  _____                      _____  _____   _    _  _____  
+ |  ___|                    /  __ \|  _  \ | |  | ||  _  | 
+ | |_  ___  _ __  __ _  ___ | /  \/| |_| | | |  | || | | | 
+ |  _|/ _ \| '__|/ _` |/ _ \| |    |    /  | |  | || | | | 
+ | | | (_) | |  | (_| |  __/| \__/\| |\ \  | |__| || |/ /  
+ \_|  \___/|_|   \__, |\___|  \____/\_| \_|  \____/ |___/   
+                  __/ |                                    
+                 |___/                                     
+```
 
-<!--
+## About
 
-**Here are some ideas to get you started:**
+ForgeCRUD is a modern database design platform that transforms database designs into fully functional applications in minutes.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit [https://forgecrud.io](https://forgecrud.io) to learn more.
