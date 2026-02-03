@@ -9,12 +9,6 @@
                  |___/
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="landing-page/public/img/logo/forgecrud-full-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="landing-page/public/img/logo/forgecrud-full-light.svg">
-  <img alt="ForgeCRUD Logo" src="landing-page/public/img/logo/forgecrud-full-light.svg" width="280">
-</picture>
-
 ### NO-Code Operasyon Platformu
 
 [![Website](https://img.shields.io/badge/Website-forgecrud.io-2a85ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://forgecrud.io)
