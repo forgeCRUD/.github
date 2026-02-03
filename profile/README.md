@@ -238,5 +238,5 @@ Verileriniz için banka düzeyinde güvenlik
 <p align="center">
   <a href="https://github.com/Onurlulardan">Onur Altuntaş</a> tarafından geliştirildi
   <br>
-  <sub>Copyright 2025 ForgeCRUD. Tüm hakları saklıdır.</sub>
+  <sub>Copyright 2026 ForgeCRUD. Tüm hakları saklıdır.</sub>
 </p>
