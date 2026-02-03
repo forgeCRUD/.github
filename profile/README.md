@@ -1,14 +1,13 @@
 ```
-  _____                      _____  _____   _    _  _____  
- |  ___|                    /  __ \|  _  \ | |  | ||  _  | 
- | |_  ___  _ __  __ _  ___ | /  \/| |_| | | |  | || | | | 
- |  _|/ _ \| '__|/ _` |/ _ \| |    |    /  | |  | || | | | 
- | | | (_) | |  | (_| |  __/| \__/\| |\ \  | |__| || |/ /  
- \_|  \___/|_|   \__, |\___|  \____/\_| \_|  \____/ |___/   
-                  __/ |                                    
-                 |___/                                     
-```                               
-
+  _____                      _____  _____   _    _  _____
+ |  ___|                    /  __ \|  _  \ | |  | ||  _  |
+ | |_  ___  _ __  __ _  ___ | /  \/| |_| | | |  | || | | |
+ |  _|/ _ \| '__|/ _` |/ _ \| |    |    /  | |  | || | | |
+ | | | (_) | |  | (_| |  __/| \__/\| |\ \  | |__| || |/ /
+ \_|  \___/|_|   \__, |\___|  \____/\_| \_|  \____/ |___/
+                  __/ |
+                 |___/
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="landing-page/public/img/logo/forgecrud-full-dark.svg">
@@ -16,89 +15,89 @@
   <img alt="ForgeCRUD Logo" src="landing-page/public/img/logo/forgecrud-full-light.svg" width="280">
 </picture>
 
-### Low-Code Operations Platform
+### Düşük Kodlu Operasyon Platformu
 
 [![Website](https://img.shields.io/badge/Website-forgecrud.io-2a85ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://forgecrud.io)
-[![Demo](https://img.shields.io/badge/Live-Demo-10b981?style=for-the-badge&logo=rocket&logoColor=white)](https://demo.v2.forgecrud.io)
-[![Docs](https://img.shields.io/badge/Docs-Documentation-6366f1?style=for-the-badge&logo=gitbook&logoColor=white)](https://forgecrud.io/docs)
+[![Demo](https://img.shields.io/badge/Canl%C4%B1-Demo-10b981?style=for-the-badge&logo=rocket&logoColor=white)](https://demo.v2.forgecrud.io)
+[![Docs](https://img.shields.io/badge/Dok%C3%BCmantasyon-Rehber-6366f1?style=for-the-badge&logo=gitbook&logoColor=white)](https://forgecrud.io/docs)
 
 ---
 
-**ForgeCRUD** transforms your operational workflows into powerful digital applications - without writing a single line of code.
+**ForgeCRUD** operasyonel iş akışlarınızı güçlü dijital uygulamalara dönüştürür - tek satır kod yazmadan.
 
-Build dynamic forms, design automated workflows, and create custom APIs in minutes. Perfect for purchase orders, leave management, invoice approvals, and any business process you can imagine.
+Dinamik formlar oluşturun, otomatik iş akışları tasarlayın ve dakikalar içinde özel API'lar oluşturun. Satın alma talepleri, izin yönetimi, fatura onayları ve hayal edebileceğiniz her türlü iş süreci için idealdir.
 
 ---
 
-## Features
+## Özellikler
 
 <table>
 <tr>
 <td width="50%">
 
-### Visual Form Builder
-Build any form with drag-and-drop simplicity
-- 15+ field types (text, select, date, file upload...)
-- Auto-generated database tables
-- Smart validation rules
-- Relational field support
-- Automatic code generation (PO-000001)
+### Görsel Form Oluşturucu
+Sürükle-bırak ile her türlü formu oluşturun
+- 15+ alan tipi (metin, seçim, tarih, dosya yükleme...)
+- Otomatik veritabanı tablo oluşturma
+- Akıllı doğrulama kuralları
+- İlişkisel alan desteği
+- Otomatik kod üretimi (PO-000001)
 
 </td>
 <td width="50%">
 
-### Workflow Engine
-Design approval flows visually with ReactFlow
-- Multi-level approvals (Manager > Director > CEO)
-- Conditional branching
-- Scheduled triggers (cron-based)
-- Email & real-time notifications
-- Webhook integrations
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Custom API Builder
-Create REST APIs without writing SQL
-- Multi-table JOIN support
-- Aggregation functions (SUM, COUNT, AVG)
-- Window functions (ROW_NUMBER, RANK)
-- Dynamic filtering & sorting
-
-</td>
-<td width="50%">
-
-### Document Management
-S3-compatible file storage with MinIO
-- Version control
-- Folder organization
-- Access control
-- File preview
+### İş Akışı Motoru
+ReactFlow ile görsel onay akışları tasarlayın
+- Çok seviyeli onaylar (Yönetici > Direktör > CEO)
+- Koşullu dallanma
+- Zamanlanmış tetikleyiciler (cron tabanlı)
+- E-posta ve anlık bildirimler
+- Webhook entegrasyonları
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Real-time Notifications
-Keep everyone informed instantly
-- WebSocket-powered alerts
-- Email integration
-- Customizable templates
-- In-app notification center
+### Özel API Oluşturucu
+SQL yazmadan REST API oluşturun
+- Çoklu tablo JOIN desteği
+- Aggregation fonksiyonları (SUM, COUNT, AVG)
+- Window fonksiyonları (ROW_NUMBER, RANK)
+- Dinamik filtreleme ve sıralama
 
 </td>
 <td width="50%">
 
-### Enterprise Security
-Bank-grade security for your data
-- 3-Level RBAC (User > Role > Organization)
-- JWT authentication
-- SQL Injection & XSS protection
-- Rate limiting (100 req/min)
-- Multi-tenant data isolation
+### Döküman Yönetimi
+MinIO ile S3-uyumlu dosya depolama
+- Versiyon kontrolü
+- Klasör organizasyonu
+- Erişim kontrolü
+- Dosya önizleme
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Anlık Bildirimler
+Herkesi anında bilgilendirin
+- WebSocket tabanlı uyarılar
+- E-posta entegrasyonu
+- Özelleştirilebilir şablonlar
+- Uygulama içi bildirim merkezi
+
+</td>
+<td width="50%">
+
+### Kurumsal Güvenlik
+Verileriniz için banka düzeyinde güvenlik
+- 3 Seviyeli RBAC (Kullanıcı > Rol > Organizasyon)
+- JWT kimlik doğrulama
+- SQL Injection ve XSS koruması
+- Rate limiting (100 istek/dk)
+- Çoklu kiracı veri izolasyonu
 
 </td>
 </tr>
@@ -106,41 +105,41 @@ Bank-grade security for your data
 
 ---
 
-## How It Works
+## Nasıl Çalışır
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│  1. DESIGN      │     │  2. AUTOMATE    │     │  3. SECURE      │     │  4. DEPLOY      │
+│  1. TASARLA     │     │  2. OTOMATİK    │     │  3. GÜVENLİ     │     │  4. YAYINLA     │
 │  ───────────    │     │  ──────────     │     │  ─────────      │     │  ─────────      │
 │                 │     │                 │     │                 │     │                 │
-│  Create forms   │────▶│  Build workflow │────▶│  Set roles &    │────▶│  Go live in     │
-│  visually       │     │  with triggers  │     │  permissions    │     │  minutes        │
-│                 │     │  & actions      │     │                 │     │                 │
+│  Formları       │────▶│  Tetikleyiciler │────▶│  Rolleri ve     │────▶│  Dakikalar      │
+│  görsel         │     │  ve aksiyonlarla│     │  izinleri       │     │  içinde         │
+│  oluştur        │     │  iş akışı kur   │     │  ayarla         │     │  canlıya al     │
 └─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
 ```
 
 ---
 
-## Use Cases
+## Kullanım Senaryoları
 
-| Scenario | Description |
-|----------|-------------|
-| **Purchase Orders** | Request > Manager Approval > Budget Check > Director Approval > Procurement |
-| **Leave Management** | Apply > Manager Review > HR Approval > Calendar Sync |
-| **Invoice Approval** | Upload > Verification > Multi-level Approval > Payment Processing |
-| **IT Support** | Ticket Creation > Assignment > Resolution > Feedback |
-| **Expense Reports** | Submit > Receipt Upload > Approval > Reimbursement |
+| Senaryo | Açıklama |
+|---------|----------|
+| **Satın Alma Talepleri** | Talep > Yönetici Onayı > Bütçe Kontrolü > Direktör Onayı > Satın Alma |
+| **İzin Yönetimi** | Başvur > Yönetici İncelemesi > İK Onayı > Takvim Senkronizasyonu |
+| **Fatura Onayı** | Yükle > Doğrulama > Çok Seviyeli Onay > Ödeme İşleme |
+| **BT Destek** | Bilet Oluşturma > Atama > Çözüm > Geri Bildirim |
+| **Masraf Raporları** | Gönder > Makbuz Yükle > Onay > Geri Ödeme |
 
 ---
 
-## Tech Stack
+## Teknoloji Stack
 
 <table>
 <tr>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go" />
 <br><strong>Go</strong>
-<br><sub>Backend Services</sub>
+<br><sub>Backend Servisleri</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
@@ -150,12 +149,12 @@ Bank-grade security for your data
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
 <br><strong>TypeScript</strong>
-<br><sub>Type Safety</sub>
+<br><sub>Tip Güvenliği</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
-<br><sub>Database</sub>
+<br><sub>Veritabanı</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
@@ -167,17 +166,17 @@ Bank-grade security for your data
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
 <br><strong>Docker</strong>
-<br><sub>Containerization</sub>
+<br><sub>Konteynerizasyon</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
 <br><strong>Kubernetes</strong>
-<br><sub>Orchestration</sub>
+<br><sub>Orkestrasyon</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" />
 <br><strong>RabbitMQ</strong>
-<br><sub>Message Queue</sub>
+<br><sub>Mesaj Kuyruğu</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
@@ -187,38 +186,38 @@ Bank-grade security for your data
 <td align="center" width="20%">
 <img src="https://min.io/resources/img/logo/MINIO_Bird.png" width="48" height="48" alt="MinIO" />
 <br><strong>MinIO</strong>
-<br><sub>Object Storage</sub>
+<br><sub>Dosya Depolama</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## Performance
+## Performans
 
-| Metric | Value |
+| Metrik | Değer |
 |--------|-------|
-| API Response Time | < 100ms |
-| Concurrent Users | 10,000+ |
-| Uptime SLA | 99.9% |
-| Microservices | 9 |
-| Databases | 3 |
-| Containerized | 100% |
+| API Yanıt Süresi | < 100ms |
+| Eşzamanlı Kullanıcı | 10,000+ |
+| Uptime SLA | %99.9 |
+| Microservice | 9 |
+| Veritabanı | 3 |
+| Konteynerize | %100 |
 
 ---
 
-## Quick Links
+## Hızlı Linkler
 
-| Resource | Link |
-|----------|------|
+| Kaynak | Link |
+|--------|------|
 | Website | [forgecrud.io](https://forgecrud.io) |
-| Live Demo | [demo.v2.forgecrud.io](https://demo.v2.forgecrud.io) |
-| Documentation | [forgecrud.io/docs](https://forgecrud.io/docs) |
-| Contact | [info@forgecrud.com](mailto:info@forgecrud.com) |
+| Canlı Demo | [demo.v2.forgecrud.io](https://demo.v2.forgecrud.io) |
+| Dokümantasyon | [forgecrud.io/docs](https://forgecrud.io/docs) |
+| İletişim | [info@forgecrud.com](mailto:info@forgecrud.com) |
 
 ---
 
-## Connect With Us
+## Bizi Takip Edin
 
 [![Twitter](https://img.shields.io/badge/Twitter-@forgecrud-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/forgecrud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ForgeCRUD-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/forgecrud)
@@ -227,17 +226,17 @@ Bank-grade security for your data
 ---
 
 <p align="center">
-  <strong>Transform Your Operations. Build Without Code.</strong>
+  <strong>Operasyonlarınızı Dönüştürün. Kodsuz İnşa Edin.</strong>
   <br><br>
   <a href="https://forgecrud.io">
-    <img src="https://img.shields.io/badge/Get_Started-ForgeCRUD-2a85ff?style=for-the-badge" alt="Get Started">
+    <img src="https://img.shields.io/badge/Hemen_Ba%C5%9Fla-ForgeCRUD-2a85ff?style=for-the-badge" alt="Hemen Başla">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Made with  by <a href="https://github.com/onuraltuntas">Onur Altuntas</a>
+  <a href="https://github.com/onuraltuntas">Onur Altuntaş</a> tarafından geliştirildi
   <br>
-  <sub>Copyright 2025 ForgeCRUD. All rights reserved.</sub>
+  <sub>Copyright 2025 ForgeCRUD. Tüm hakları saklıdır.</sub>
 </p>
