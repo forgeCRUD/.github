@@ -15,7 +15,7 @@
   <img alt="ForgeCRUD Logo" src="landing-page/public/img/logo/forgecrud-full-light.svg" width="280">
 </picture>
 
-### Düşük Kodlu Operasyon Platformu
+### NO-Code Operasyon Platformu
 
 [![Website](https://img.shields.io/badge/Website-forgecrud.io-2a85ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://forgecrud.io)
 [![Demo](https://img.shields.io/badge/Canl%C4%B1-Demo-10b981?style=for-the-badge&logo=rocket&logoColor=white)](https://demo.v2.forgecrud.io)
